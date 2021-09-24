@@ -12,7 +12,7 @@ IEEE XploreAPI Key
 
 | Method | Abstract | Usage |
 |-|-|-|
-|findByAbstractText|One parameter: the abstract text|Queries text in abstracts.|
+|findByAbstractText()|One parameter: the abstract text|Queries text in abstracts.|
 
 
 ## Contributions 
